@@ -1,0 +1,15 @@
+{
+
+    "watch": [
+        "mandado"
+
+    ],
+    "ext": "ts",
+    "ignore":[
+        "src/**/*.spec.ts"
+
+    ],
+
+    "exe": "./src/main.js"
+
+}

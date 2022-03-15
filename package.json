@@ -1,0 +1,30 @@
+{
+  "name": "mandado",
+  "version": "1.0.0",
+  "description": "lista-mandado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChronoBoy/mandado-typescript.git"
+  },
+  "author": "Kron0z",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChronoBoy/mandado-typescript/issues"
+  },
+  "homepage": "https://github.com/ChronoBoy/mandado-typescript#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-asyncify": "^1.0.1",
+    "express-handlebars": "^6.0.3",
+    "mongoose": "^6.2.6"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "nodemon": "^2.0.15",
+    "ts-node": "^10.7.0"
+  }
+}
